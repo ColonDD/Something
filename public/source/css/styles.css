@@ -2,3 +2,14 @@
     padding: 0;
     margin: 0;
 }
+/* defined in index.hyml */
+.myparagraph {
+    color:tomato; /* set the text color */
+    background-color: darkslateblue;
+
+    width: 5rem; /* set the width of the eloement to 5 relative units */
+    padding: 0.4rem; /* add space around object */
+    margin: 1rem; /* add empty space around the object */
+}
+
+/* https;//developer.mozilla.org/en-US/docs/Learn/CSS */
